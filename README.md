@@ -11,7 +11,7 @@ Washington University St. Louis Data Analytics Homework and Projects 2018-2019
   - Option 2: [Academy of Py](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_4_Pandas/PyCitySchools)
 - [Homework 5 - Matplotlib](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_5_Matplotlib)
   - Option 2: [Pymaceuticals Inc](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_5_Matplotlib/Pymaceuticals)
-- Homework 6 - Python APIs
+- [Homework 6 - Python APIs](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_6_Python_APIs)
 - Project 1: Hospital Analysis
 - Homework 9 - SQL
 - Homework 10 - Advanced Data Storage and Retrieval
