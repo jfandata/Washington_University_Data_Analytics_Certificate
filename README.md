@@ -7,7 +7,8 @@ Washington University St. Louis Data Analytics Homework and Projects 2018-2019
 - [Homework 3 - Python](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_3_Python)
   - [PyBank](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_3_Python/PyBank) - Python script for analyzing the financial records of a company
   - [PyPoll](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_3_Python/PyPoll) - Given a set of poll data, Python script that analyzes votes
-- Homework 4 - Pandas
+- [Homework 4 - Pandas](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_4_Pandas)
+  - Option 2: [Academy of Py](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_4_Pandas/PyCitySchools)
 - Homework 5 - Matplotlib
 - Homework 6 - Python APIs
 - Project 1: Hospital Analysis
