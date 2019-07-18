@@ -1,12 +1,12 @@
-# Washington University Data Analytics Certification: Homework and Projects
+# [Washington University Data Analytics Certification: Homework and Projects](https://tlcenter.wustl.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=979307&selectedProgramAreaId=933084&selectedProgramStreamId=)
 Washington University St. Louis Data Analytics Homework and Projects 2018-2019
 
 
 
 # Homework and Project Directory:
 - [Homework 3 - Python](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_3_Python)
-  - PyBank - Python script for analyzing the financial records of a company
-  - PyPoll - Given a set of poll data, Python script that analyzes votes
+  - [PyBank](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_3_Python/PyBank) - Python script for analyzing the financial records of a company
+  - [PyPoll](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_3_Python/PyPoll) - Given a set of poll data, Python script that analyzes votes
 - Homework 4 - Pandas
 - Homework 5 - Matplotlib
 - Homework 6 - Python APIs
