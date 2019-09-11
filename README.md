@@ -1,4 +1,4 @@
-# [Washington University Data Analytics Certification: Projects](https://tlcenter.wustl.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=979307&selectedProgramAreaId=933084&selectedProgramStreamId=)
+# [Washington University Data Analytics Certification](https://tlcenter.wustl.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=979307&selectedProgramAreaId=933084&selectedProgramStreamId=)
 Washington University St. Louis Data Analytics Projects 2018-2019
 
 
