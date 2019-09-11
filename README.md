@@ -1,30 +1,30 @@
 # [Washington University Data Analytics Certification: Homework and Projects](https://tlcenter.wustl.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=979307&selectedProgramAreaId=933084&selectedProgramStreamId=)
-Washington University St. Louis Data Analytics Homework and Projects 2018-2019
+Washington University St. Louis Data Analytics Projects 2018-2019
 
 
 
-# Homework and Project Directory:
-- [Homework 3 - Python](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_3_Python)
-  - [PyBank](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_3_Python/PyBank) - Python script for analyzing the financial records of a company
-  - [PyPoll](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_3_Python/PyPoll) - Given a set of poll data, Python script that analyzes votes
-- [Homework 4 - Pandas](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_4_Pandas)
-  - Option 2: [Academy of Py](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_4_Pandas/PyCitySchools)
-- [Homework 5 - Matplotlib](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_5_Matplotlib)
-  - Option 2: [Pymaceuticals Inc](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_5_Matplotlib/Pymaceuticals)
-- [Homework 6 - Python APIs](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_6_Python_APIs)
-- Project 1: Hospital Analysis
-- Homework 9 - SQL
-- Homework 10 - Advanced Data Storage and Retrieval
-- Homework 11 - Web
-- Homework 12 - Web Scraping and Document Databases
-- Project 2: ETL Board Games
-- Homework 14 - JavaScript
-- Homework 15 - Interactive Visualizations and Dashboards
-- Homework 16 - D3
-- Homework 17 - Mapping-Web
-- Homework 18 - R
-- Project 3: Youtube Data Analytics and Visualization
-- Homework 20 - Tableau
-- Homework 21 - Machine Learning
-- Homework 22 - Big Data
-- Final Project: Translation App with Machine Learning
+# Project Directory:
+- [Python](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_3_Python)
+  - [PyBank](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_3_Python/PyBank) - Python script for analyzing the financial records of a company.
+  - [PyPoll](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_3_Python/PyPoll) - Given a set of poll data, Python script that analyzes votes.
+- [Pandas](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_4_Pandas)
+  - [Academy of Py](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_4_Pandas/PyCitySchools) - Analysis of schoold district standardize test results.
+  - [Heroes of Pymoli] - Analysis of gaming purchases.
+- [Matplotlib](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_5_Matplotlib)
+  - [Pymaceuticals Inc](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_5_Matplotlib/Pymaceuticals) - Analysis and visualization of cancer, squamous cell carcinoma, treatment data.
+  - [Pyber] - Analysis and visualization of ride sharing data.
+- [Python APIs](https://github.com/jfandata/Washington_University_Data_Analytics_Certificate/tree/master/homework/Homework_6_Python_APIs) - Utilizing OpenWeatherMap API, analysis and visualization of 500+ city weather data.
+- Hospital Analysis and Presentation - Analysis and visualization of how age, population and income affect the concentration of hospitals across the United States.
+- [SQL]
+- [Advanced Data Storage and Retrieval]
+- [Web]
+- [Web Scraping and Document Databases]
+- [ETL Board Games]
+- [JavaScript]
+- [Interactive Visualizations and Dashboards]
+- [D3]
+- [Mapping-Web]
+- [R]
+- [Youtube Data Analytics and Visualization]
+- [Tableau]
+- [Translation App with Machine Learning and Google API]
