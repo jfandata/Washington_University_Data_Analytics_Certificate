@@ -17,7 +17,7 @@ The purpose of this project is analyze district-wide standardized test results. 
 * Jupyter Notebook 
 
 ## Project Description
-This project uses the Pandas library to manipulate data into tables that allow for aggregating and summarizing of district and school data. Array calculations are performed to create a snapshot of school district's key metrics. Analysis done to show trends such as top peforming schools, bottom performing schools, math and math scores by grade, and scores by school spending, size, and school type. 
+This project uses the Pandas library to manipulate data into tables that allow for aggregating and summarizing of district and school data. Array calculations are performed to create a snapshot of school district's key metrics. Analysis done to show trends such as top peforming schools, bottom performing schools, math and reading scores by grade, and scores by school spending, size, and school type. 
 
 ## Needs of this project
 
